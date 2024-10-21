@@ -44,5 +44,5 @@ Soy **Javier Hevia**, con más de **2 años de experiencia** en el desarrollo de
 
 Si compartes intereses similares o simplemente quieres colaborar en proyectos emocionantes, no dudes en contactarme:
 
-- **Email**: [tu-email@example.com](jaav.hevia@gmail.com)
-- **LinkedIn**: [Enlace a tu perfil de LinkedIn](www.linkedin.com/in/javier-hevia-pedrosa)
+- **Email**: [jaav.hevia@gmail.com](jaav.hevia@gmail.com)
+- **LinkedIn**: [Mi LinkedIn](www.linkedin.com/in/javier-hevia-pedrosa)
