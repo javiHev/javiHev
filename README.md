@@ -1,48 +1,150 @@
-# 👋 ¡Hola, soy Javier Hevia!
+# 👋 ¡Hola! Soy Javi Hevia
 
-### 🚀 **Apasionado por la Inteligencia Artificial, Machine Learning y el Desarrollo de Software**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&color=%237952c6" width="100%" />
+</div>
 
-Soy **Javier Hevia**, con más de **2 años de experiencia** en el desarrollo de aplicaciones, con un interés especial en el campo de la inteligencia artificial (IA). Actualmente estoy cursando un máster en **IA y Big Data**, y me dedico a implementar soluciones que combinan **modelos de lenguaje grande (LLM)** y **procesamiento de datos** para crear productos innovadores.
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQHR3Sfs4x0jnA/profile-displayphoto-crop_800_800/B4EZr60EL0IUAI-/0/1765144545533?e=1766620800&v=beta&t=XF5u1Y-KG4KLm3OEmuOWxt1F3yDANeiHtu5wGPi39GQ" height="180" style="border-radius: 50%;" />
 
----
-
-### 🧠 **Mi enfoque principal**:
-
-- **Desarrollo de aplicaciones multiplataforma**: Especializado en la creación de aplicaciones eficientes y escalables.
-- **Inteligencia Artificial y Machine Learning**: Experimentando con modelos de lenguaje grande (como GPT-4) para crear asistentes y automatización de procesos.
-- **Fine-tuning de modelos**: Actualmente en proceso de aprender y aplicar técnicas de ajuste fino a modelos de IA.
-- **Procesamiento de datos genéticos y ancestría**: Desarrollo de soluciones para analizar y proporcionar insights sobre datos genéticos utilizando IA.
-
----
-
-### 💻 **Tecnologías con las que trabajo**:
-
-- **Lenguajes**: Python, JavaScript, SQL
-- **Herramientas de IA**: OpenAI API, Scikit-Learn
-- **Frameworks**: React, Node.js, FileMaker
-- **DevOps y Backend**: Implementando pipelines CI/CD, Docker, gestión de bases de datos.
-- **Terminal**: Warp
+  <h3>AI Systems Engineer especializado en sistemas agénticos, agentes multimodales y desarrollo de IA end-to-end</h3>
+  
+  <p>
+    <em>Diseño y construyo sistemas de IA completos: arquitectura → reasoning → agentes → herramientas → APIs → despliegue en producción.</em>
+  </p>
+</div>
 
 ---
 
-### 🌱 **Lo que estoy aprendiendo actualmente**:
+## 🧠 Sobre mí
 
-- Profundizando en **Machine Learning** y **Deep Learning**.
-- **Fine-tuning** de modelos de IA para proyectos personalizados.
-- Experimentando con **EDA (Análisis Exploratorio de Datos)** en el nicho de salud y genética.
+Me dedico a **diseñar y desarrollar sistemas agénticos reales**, capaces de:
+
+- 🤔 **Razonar** sobre problemas complejos  
+- 📋 **Planificar** y ejecutar estrategias  
+- ⚡ **Tomar decisiones** autónomas  
+- 🛠️ **Usar herramientas** de forma inteligente  
+- 🎙️ **Interactuar** por voz, texto o visión  
+- 🚀 **Operar en producción** de forma estable y escalable  
+
+### Mi historia breve
+
+Empecé en IA por **curiosidad**, construyendo prototipos para entender cómo pensaban los modelos.  
+Ese primer proyecto, aunque simple, me consiguió mi primer trabajo.
+
+Meses después era el **único desarrollador de IA** en una empresa real,  
+donde construí agentes, pipelines y automatizaciones críticas llevadas a producción.
+
+Ahí entendí algo clave:
+
+> **La IA no funciona por magia. Funciona por ingeniería.**
+
+Y eso es exactamente lo que hago.
 
 ---
 
-### 🎯 **Proyectos destacados**:
+## ⚙️ Tech Stack
 
-- **Asistente de nutrición con IA**: Un asistente inteligente que ayuda a los usuarios a gestionar su dieta y nutrición, basado en su ADN.
-- **Asistente para ancestría genética**: Una IA diseñada para resolver dudas sobre la ancestría genética con información específica del usuario.
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js" />
+      <br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="55" height="55" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="55" height="55" alt="Google AI" />
+      <br>Gemini
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/anthropic/000000" width="55" height="55" alt="Anthropic" />
+      <br>Anthropic
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/langchain/0052CC" width="55" height="55" alt="LangChain" />
+      <br>LangChain
+    </td>
+    <td align="center" width="140">
+      <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" width="55" height="55" alt="CrewAI" />
+      <br>CrewAI
+    </td>
+    <td align="center" width="140">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" height="55" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="55" height="55" alt="Google Cloud" />
+      <br>GCP
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/vercel/000000" width="55" height="55" alt="Vercel" />
+      <br>Vercel
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 **¡Hablemos!**
+## 🚀 Qué construyo
 
-Si compartes intereses similares o simplemente quieres colaborar en proyectos emocionantes, no dudes en contactarme:
+* **Sistemas agénticos completos** con reasoning avanzado
+* **Agentes multimodales** (voz, visión, texto, herramientas)
+* **Aplicaciones full-stack** con IA integrada
+* **Pipelines de razonamiento** seguros y reproducibles
+* **Integraciones con APIs y bases de datos**
+* **Infraestructura escalable** en Cloud Run y Vercel
+* **Arquitecturas limpias y mantenibles**, listas para equipos
 
-- **Email**: [jaav.hevia@gmail.com](jaav.hevia@gmail.com)
-- **LinkedIn**: [Mi LinkedIn](www.linkedin.com/in/javier-hevia-pedrosa)
+---
+
+## 🌐 Conecta conmigo
+
+<div align="center">
+  <a href="mailto:javi@asistela.com">
+    <img src="https://img.shields.io/badge/Email-javi@asistela.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/javiheviapedrosa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-javiheviapedrosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://asistela.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Web-asistela.com-7952c6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=%237952c6" width="100%" />
+  <p><em>💡 "La IA no funciona por magia. Funciona por ingeniería."</em></p>
+</div>
