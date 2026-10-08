@@ -1,150 +1,118 @@
-# 👋 ¡Hola! Soy Javi Hevia
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&color=%237952c6" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQHR3Sfs4x0jnA/profile-displayphoto-crop_800_800/B4EZr60EL0IUAI-/0/1765144545533?e=1766620800&v=beta&t=XF5u1Y-KG4KLm3OEmuOWxt1F3yDANeiHtu5wGPi39GQ" height="180" style="border-radius: 50%;" />
+# 👋 Hola, soy Javier Hevia Pedrosa
 
-  <h3>AI Systems Engineer especializado en sistemas agénticos, agentes multimodales y desarrollo de IA end-to-end</h3>
-  
-  <p>
-    <em>Diseño y construyo sistemas de IA completos: arquitectura → reasoning → agentes → herramientas → APIs → despliegue en producción.</em>
-  </p>
+### Forward Deployed Engineer · IA aplicada en operaciones reales
+
+*Me meto en el proceso del cliente, entiendo cómo trabaja su equipo y construyo la solución hasta que funciona en producción.*
+
+<!-- TODO: añade tu empresa/cargo actual si quieres mostrarlo aquí (p. ej. "Forward Deployed Engineer en X · Fundador de Asistela") -->
+
+<a href="https://www.linkedin.com/in/javiheviapedrosa/"><img src="https://img.shields.io/badge/LinkedIn-javiheviapedrosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:javi@asistela.com"><img src="https://img.shields.io/badge/Email-javi@asistela.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://asistela.com/"><img src="https://img.shields.io/badge/Asistela-asistela.com-7952c6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Asistela" /></a>
+
 </div>
 
 ---
 
 ## 🧠 Sobre mí
 
-Me dedico a **diseñar y desarrollar sistemas agénticos reales**, capaces de:
+Soy **Forward Deployed Engineer**: trabajo codo con codo con el cliente, en su operativa real, no desde un backlog lejano. Mi forma de trabajar:
 
-- 🤔 **Razonar** sobre problemas complejos  
-- 📋 **Planificar** y ejecutar estrategias  
-- ⚡ **Tomar decisiones** autónomas  
-- 🛠️ **Usar herramientas** de forma inteligente  
-- 🎙️ **Interactuar** por voz, texto o visión  
-- 🚀 **Operar en producción** de forma estable y escalable  
+1. **Inmersión:** entiendo el proceso tal y como lo hace hoy el equipo (emails, PDFs, Excel, ERP, WhatsApp).
+2. **Diagnóstico:** mido dónde se pierde el tiempo y qué merece automatizarse.
+3. **Construcción:** desarrollo la solución (agentes, pipelines, integraciones) sobre los sistemas que ya usa el cliente.
+4. **Producción:** la despliego, la pongo en manos de usuarios reales y la itero con su feedback.
 
-### Mi historia breve
-
-Empecé en IA por **curiosidad**, construyendo prototipos para entender cómo pensaban los modelos.  
-Ese primer proyecto, aunque simple, me consiguió mi primer trabajo.
-
-Meses después era el **único desarrollador de IA** en una empresa real,  
-donde construí agentes, pipelines y automatizaciones críticas llevadas a producción.
-
-Ahí entendí algo clave:
+Empecé en IA por curiosidad, haciendo prototipos para entender cómo pensaban los modelos. Ese primer proyecto me consiguió mi primer trabajo, y meses después era el único desarrollador de IA de una empresa real, llevando agentes, pipelines y automatizaciones críticas a producción.
 
 > **La IA no funciona por magia. Funciona por ingeniería.**
 
-Y eso es exactamente lo que hago.
+---
+
+## 🏭 Experiencia
+
+**Forward Deployed Engineer** <!-- TODO: empresa y fechas -->
+Automatización, sistemas internos y operaciones B2B reales con **24Genetics Business Partners**, con sistemas utilizados por equipos reales.
+
+<!-- TODO: 2-3 logros medibles (horas ahorradas, pedidos procesados, errores reducidos, tiempo de implantación). Solo los que puedas compartir. -->
+
+**Fundador · [Asistela](https://asistela.com/)** <!-- TODO: confirma tu cargo exacto -->
+Producto y servicios de automatización operativa para distribuidores B2B (ver abajo).
+
+---
+
+## 📦 Proyecto destacado: Asistela
+
+**[Asistela](https://asistela.com/)** automatiza el trabajo manual en pedidos, presupuestos, compras y atención al cliente de distribuidores B2B, sobre el ERP que ya usan, sin cambiarlo.
+
+Su producto principal, **AI Orders** (la demo se llama *Asistela Pedidos*), convierte un pedido recibido por email o PDF en un pedido preparado para el ERP:
+
+- Identifica al cliente
+- Extrae líneas y cantidades
+- Cruza referencias con el catálogo
+- Detecta excepciones y deja revisión humana cuando hace falta
+- Prepara la información para el ERP
+
+<div align="center">
+
+<a href="assets/asistela-orders.mp4">
+  <img src="assets/asistela-orders-demo.gif" alt="Demo de Asistela Pedidos: de un email a un pedido listo para el ERP" width="720" />
+</a>
+
+*▶️ [Ver la demo completa (35 s)](assets/asistela-orders.mp4): un email llega a la bandeja, se estructura el pedido, se marca la línea sin resolver y se envía al ERP.*
+
+</div>
+
+---
+
+## 🛠️ Qué construyo
+
+- **Agentes y pipelines de IA** para procesos de back-office
+- **Integraciones** con ERP, catálogos, APIs y bases de datos
+- **Automatizaciones con humano en el bucle**, para que lo dudoso se revise antes de ejecutar
+- **Aplicaciones full-stack** con IA integrada, desplegadas en producción
+- **Agentes multimodales** (voz, visión, texto)
 
 ---
 
 ## ⚙️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="55" height="55" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/google/4285F4" width="55" height="55" alt="Google AI" />
-      <br>Gemini
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI" />
-      <br>OpenAI
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/anthropic/000000" width="55" height="55" alt="Anthropic" />
-      <br>Anthropic
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/langchain/0052CC" width="55" height="55" alt="LangChain" />
-      <br>LangChain
-    </td>
-    <td align="center" width="140">
-      <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" width="55" height="55" alt="CrewAI" />
-      <br>CrewAI
-    </td>
-    <td align="center" width="140">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" height="55" alt="Hugging Face" />
-      <br>Hugging Face
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="55" height="55" alt="Google Cloud" />
-      <br>GCP
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/vercel/000000" width="55" height="55" alt="Vercel" />
-      <br>Vercel
-    </td>
-  </tr>
-</table>
+**Lenguajes y web**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-808080?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**IA y agentes**
+
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Infraestructura**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-808080?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🚀 Qué construyo
+## 🤝 Hablemos
 
-* **Sistemas agénticos completos** con reasoning avanzado
-* **Agentes multimodales** (voz, visión, texto, herramientas)
-* **Aplicaciones full-stack** con IA integrada
-* **Pipelines de razonamiento** seguros y reproducibles
-* **Integraciones con APIs y bases de datos**
-* **Infraestructura escalable** en Cloud Run y Vercel
-* **Arquitecturas limpias y mantenibles**, listas para equipos
+Si tu equipo sigue haciendo a mano lo que el sistema debería hacer, o buscas un perfil que se meta en el problema y lo lleve hasta producción, escríbeme.
 
----
-
-## 🌐 Conecta conmigo
+✉️ javi@asistela.com · [LinkedIn](https://www.linkedin.com/in/javiheviapedrosa/) · 📅 [Reserva 30 min sobre Asistela](https://cal.com/javier-hevia-pedrosa-asistela/30min)
 
 <div align="center">
-  <a href="mailto:javi@asistela.com">
-    <img src="https://img.shields.io/badge/Email-javi@asistela.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/javiheviapedrosa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-javiheviapedrosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://asistela.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Web-asistela.com-7952c6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</div>
 
-<br/>
+*💡 "La IA no funciona por magia. Funciona por ingeniería."*
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=%237952c6" width="100%" />
-  <p><em>💡 "La IA no funciona por magia. Funciona por ingeniería."</em></p>
 </div>
